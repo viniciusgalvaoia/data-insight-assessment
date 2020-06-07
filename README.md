@@ -49,9 +49,9 @@ O que será avaliado pode ser dividido em duas categorias de capacidades
 Os insumos são:
 
 1. `data/campaingns.csv`: O conjunto de dados
-1. `data/descriptions.txt`: Breve anotação das colunas, em inglês
+1. `data/campaingns-names.txt`: Breve anotação das colunas, em inglês
 
-O conjunto de dados não foi separado em treino e validação. No entanto, separamos uma amostra contendo 1000 linhas aleatórias que foi retirado do conjunto de dados original. Esta amostra é o conjunto de teste e será usado para avaliação das entregas.
+O conjunto de dados não foi separado em treino e validação. No entanto, foi separada uma amostra aleatória com 10% do volume total dos dados. Esta amostra é o conjunto de teste e será usado para avaliação das entregas.
 
 **Disclaimer**: Este conjunto de dados está disponível publicamente para pesquisa. Como não se trata de um artigo acadêmico, a citação será feita pela referência sugerida pela política de citação do centro de pesquisa: [Dua, D. and Graff, C. (2019). UCI Machine Learning Repository](http://archive.ics.uci.edu/ml).
 

@@ -14,7 +14,6 @@ O desafio envolve analisar de campanhas de marketing —feitas pelo telefone— 
 1. ou o cliente não se inscreve
 
 
-
 ### O Objetivo
 
 É importante ressaltar que **não se trata de uma competição** de problemas de *machine learning*: não queremos o melhor escore do modelo e sim **a sua melhor análise**. Portanto, o objetivo deste desafio não se trata em escovar os 3% de otimização na performance. E sim, a análise mais clara e objetiva que vai, consequentemente, permitir aos stakeholders entender melhor os dados e quais são os possíveis planos de ação e suas respectivas argumentações.
@@ -24,7 +23,7 @@ Portanto, em termos claros. Os objetivos —e entregáveis— deste desafio pode
 1. Code:
     1. Implementar um modelo de classificação com uma performance aceitável
 
-        1. O aceitável é *explicitamente arbitrário*. Deve ser aceitável de modo que viabilize uma análise **séria**
+        1. O aceitável é *explicitamente arbitrário*. Aceitável de modo que viabilize uma análise *estatisticamente fundamentada*
     1. Conjunto de dados contendo a coluna da previsão, `y'`
 
 1. Insight:
@@ -54,17 +53,17 @@ O que será avaliado pode ser dividido em duas categorias de capacidades
 
 ## Insumos
 
-Os insumos são:
+O que você precisa para realizar as análises:
 
 1. `data/campaigns.csv`: O conjunto de dados
-1. `data/campaigns-names.txt`: Breve anotação das colunas, em inglês
+1. `data/campaigns-names.txt`: Breve anotação das colunas, em *inglês*
 
 O conjunto de dados não foi separado em treino e validação. No entanto, foi separada uma amostra aleatória com 10% do volume total dos dados. Esta amostra é o conjunto de teste e será usado para avaliação das entregas.
 
 **Disclaimer**: Este conjunto de dados está disponível publicamente para pesquisa. Como não se trata de um artigo acadêmico, a citação será feita pela referência sugerida pela política de citação do centro de pesquisa: [Dua, D. and Graff, C. (2019). UCI Machine Learning Repository](http://archive.ics.uci.edu/ml).
 
 
-### Orientações & regras
+### Regras
 
 1. Qualquer tipo de plágio e/ou cópia de análises e artigos é **veementemente proibido e desclassificatório**
 1. O notebook deve ser no formato [`jupyter`](https://jupyter.org/)
@@ -76,21 +75,18 @@ O conjunto de dados não foi separado em treino e validação. No entanto, foi s
 
 ## O que devo fazer para entregar?
 
-Tem um *checklist* pra isso:
+Temos um *checklist* pra isso:
 
 - [ ] Fazer um `fork` deste repositório
 - [ ] Prepare um café
-- [ ] 🔬 Trabajo 🔬
+- [ ] 🔬 *Trabajo* 🔬
+- [ ] Certifique que o *trabajo* realizado cumpre [os requisitos](#o-objetivo) e segue [às orientações](#regras)
 - [ ] Revise-o
 - [ ] Esteja satisfeit@ com a revisão
 - [ ] Abra um PR para este repositório e notifique a Zi
 
+🤘 É isto. Boa sorte 🤘
+
+----
+
 Ficou com dúvida sobre alguma coisa? Mande um e-mail para `zi@t10.digital`
-
-
-
-
-
-
-
-

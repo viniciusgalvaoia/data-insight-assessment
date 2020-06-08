@@ -1,10 +1,10 @@
 # Data Insight Assessment 🔭
 
-## Motivação
+**Pô, mais um teste?**
 
-Sabemos que fazer testes para pleitear uma vaga envolve uma medida considerável de esforço. Mais esforço ainda se este é um trabalho que envolve análise e manipulação de dados. Porém, em consideração à natureza remota da vaga e seus problemas técnicos envolvidos, entendemos que uma das melhores formas —e mais justas— de saber quem você é, profissionalmente, seja através de uma amostra de seu trabalho 🤝
+Devido à natureza remota da vaga e os desafios técnicos envolvidos, entendemos que uma das melhores —e mais justas— formas de saber quem você é, profissionalmente, seja através de uma amostra de seu trabalho 🤝
 
-Portanto, entendendo que este desafio possa te tomar em *torno de 10h* de dedicação, nos comprometemos a emitir uma avaliação detalhada do trabalho enviado, independentemente da contratação.
+No entanto, sabemos que fazer testes para pleitear uma vaga envolve uma medida considerável de esforço. Mais esforço ainda se este é um trabalho que envolve análise e manipulação de dados: Estimamos que você possa gastar em torno de 10h para concluir o projeto a fim de cumprir com as expectativas. Portanto, em virtude ao investimento realizado por sua parte, nos comprometemos em emitir uma avaliação detalhada do trabalho enviado, *independentemente do resultado do processo seletivo*.
 
 ## O Desafio
 

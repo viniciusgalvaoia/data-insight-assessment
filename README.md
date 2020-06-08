@@ -2,26 +2,34 @@
 
 ## Motivação
 
-Sabemos que fazer testes para pleitiar uma vaga envolve uma medida considerável de esforço. Mais esforço ainda se este é um trabalho que envolve análise e manipulação de dados. Porém, em consideração à natureza remota da vaga e seus problemas técnicos envolvidos, entendemos que uma das melhores formas —e mais justas— de saber quem você é, profissionalmente, seja através de uma amostra de seu trabalho 🤝
+Sabemos que fazer testes para pleitear uma vaga envolve uma medida considerável de esforço. Mais esforço ainda se este é um trabalho que envolve análise e manipulação de dados. Porém, em consideração à natureza remota da vaga e seus problemas técnicos envolvidos, entendemos que uma das melhores formas —e mais justas— de saber quem você é, profissionalmente, seja através de uma amostra de seu trabalho 🤝
 
 Portanto, entendendo que este desafio possa te tomar em *torno de 10h* de dedicação, nos comprometemos a emitir uma avaliação detalhada do trabalho enviado, independentemente da contratação.
 
 ## O Desafio
 
-O desafio envolve uma análise de campanhas de marketing --pelo telefone-- de uma instituição bancária Portuguesa. **É um problema de classificação**: se o cliente aceita ou não se inscrever à um produto. O produto é descrito como *bank term deposit*, o que sugere ser algo similar ao nosso débito automático.
+O desafio envolve analisar de campanhas de marketing —feitas pelo telefone— de uma instituição bancária. Nas campanhas é vendido ao cliente um produto adicional de débito automático. Queremos saber se um determinado cliente se inscreve ou não ao produto. Portanto, **é um problema de classificação**:
+
+1. ou o cliente se inscreve
+1. ou o cliente não se inscreve
+
+
 
 ### O Objetivo
 
-É importante ressaltar que **não se trata de uma competição**: não queremos o melhor escore do modelo e sim **a melhor análise**. Portanto, o objetivo deste desafio não se trata em escovar os 3% de otimização na performance. E sim, a análise mais clara e objetiva que vai, consequentemente, permitir aos stakeholders entender melhor os dados e quais são os possíveis planos de ação e o porque de cada um deles.
+É importante ressaltar que **não se trata de uma competição**: não queremos o melhor escore do modelo e sim **a melhor análise**. Portanto, o objetivo deste desafio não se trata em escovar os 3% de otimização na performance. E sim, a análise mais clara e objetiva que vai, consequentemente, permitir aos stakeholders entender melhor os dados e quais são os possíveis planos de ação e a argumentação de cada um deles.
 
-Portanto, em termos claros. O objetivo final deste desafio é:
+Portanto, em termos claros. Os objetivos —e entregáveis— deste desafio podem ser dividos em duas categorias:
 
-1. Implementar um modelo de classificação com uma performance aceitável
+1. Code:
+    1. Implementar um modelo de classificação com uma performance aceitável
 
-    1. O aceitável é *explicitamente arbirtrário*. Deve ser aceitável de modo que viabilize uma análise **séria**
+        1. O aceitável é *explicitamente arbitrário*. Deve ser aceitável de modo que viabilize uma análise **séria**
+    1. Conjunto de dados contendo a coluna da previsão, `y'`
 
-1. Elencar e **analisar** quais *features* são determinantes para aderência de um cliente ao produto
-1. Descrever um **plano de ação** para futuras campanhas de marketing fundamentado na análise deste conjunto de dados
+1. Insight:
+    1. Elencar e **analisar** quais *features* são determinantes para aderência de um cliente ao produto
+    1. Descrever um **plano de ação** para futuras campanhas de marketing fundamentado na análise deste conjunto de dados
 
 
 ### Os critérios
@@ -48,8 +56,8 @@ O que será avaliado pode ser dividido em duas categorias de capacidades
 
 Os insumos são:
 
-1. `data/campaingns.csv`: O conjunto de dados
-1. `data/campaingns-names.txt`: Breve anotação das colunas, em inglês
+1. `data/campaigns.csv`: O conjunto de dados
+1. `data/campaigns-names.txt`: Breve anotação das colunas, em inglês
 
 O conjunto de dados não foi separado em treino e validação. No entanto, foi separada uma amostra aleatória com 10% do volume total dos dados. Esta amostra é o conjunto de teste e será usado para avaliação das entregas.
 

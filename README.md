@@ -17,7 +17,7 @@ O desafio envolve analisar de campanhas de marketing —feitas pelo telefone— 
 
 ### O Objetivo
 
-É importante ressaltar que **não se trata de uma competição**: não queremos o melhor escore do modelo e sim **a melhor análise**. Portanto, o objetivo deste desafio não se trata em escovar os 3% de otimização na performance. E sim, a análise mais clara e objetiva que vai, consequentemente, permitir aos stakeholders entender melhor os dados e quais são os possíveis planos de ação e a argumentação de cada um deles.
+É importante ressaltar que **não se trata de uma competição** de problemas de *machine learning*: não queremos o melhor escore do modelo e sim **a sua melhor análise**. Portanto, o objetivo deste desafio não se trata em escovar os 3% de otimização na performance. E sim, a análise mais clara e objetiva que vai, consequentemente, permitir aos stakeholders entender melhor os dados e quais são os possíveis planos de ação e suas respectivas argumentações.
 
 Portanto, em termos claros. Os objetivos —e entregáveis— deste desafio podem ser dividos em duas categorias:
 
@@ -76,14 +76,14 @@ O conjunto de dados não foi separado em treino e validação. No entanto, foi s
 
 ## O que devo fazer para entregar?
 
-Você deve:
+Tem um *checklist* pra isso:
 
-1. Fazer um `fork` deste repositório
-1. 🔬 Trabajo 🔬
-    1. Revise-o
-    1. Está feliz com a revisão? `y/N`
-        1. `n`: Volte pro 2
-        1. `y`: Envie a URL do fork para a `it@t10.digital`
+- [ ] Fazer um `fork` deste repositório
+- [ ] Prepare um café
+- [ ] 🔬 Trabajo 🔬
+- [ ] Revise-o
+- [ ] Esteja satisfeit@ com a revisão
+- [ ] Abra um PR para este repositório e notifique a Zi
 
 Ficou com dúvida sobre alguma coisa? Mande um e-mail para `zi@t10.digital`
 
